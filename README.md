@@ -1,4 +1,4 @@
-# ProjetoStage3RocketSeat
+# Projeto Stage 03 RocketSeat
 ## Sobre o projeto:
 Nesta etapa do Stage 3 aprendemos como criar formulários bonitos usando HTML e CSS (Módulo: Formulários, Validações e Customizações).
 ### Projeto: 
